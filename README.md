@@ -48,4 +48,4 @@ Before using the planner, install:
 
 ## Status
 
-Project currently under active development.
+Completed — occasional maintenance and feature updates.
