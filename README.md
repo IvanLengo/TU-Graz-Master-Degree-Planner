@@ -37,6 +37,14 @@ Before using the planner, install:
 
 ---
 
+## Screenshots
+
+![Main View](assets/images/demo1.png)
+
+![Graph View](assets/images/demo2.png)
+
+---
+
 ## Technologies
 
 - Obsidian
